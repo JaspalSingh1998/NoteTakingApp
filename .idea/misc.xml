@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_add_notes.xml" value="0.28270042194092826" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="app/src/main/res/layout/notes_rv_layout.xml" value="0.1" />
       </map>
     </option>
   </component>
